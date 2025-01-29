@@ -233,7 +233,7 @@ export default function App() {
             
           </div>
           <img
-            src="/public/cosmosssss.jpg"
+            src="../public/cosmosssss.jpg"
             className="h-[400px] mt-5 w-full object-cover rounded-2xl border-full"
             alt=""
           />
