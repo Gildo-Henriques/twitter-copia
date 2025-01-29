@@ -172,8 +172,8 @@ export default function App() {
                     disabled={!texto.trim()}
                     className={`mt-2 px-5 py-2 rounded-full font-semibold transition text-black ${
                       texto.trim()
-                        ? "bg-white  text-white"
-                        : "bg-gray-500 text-gray-300 cursor-not-allowed"
+                        ? "bg-white  text-black"
+                        : "bg-gray-500 text-black cursor-not-allowed"
                     }`}
                   >
                     Postar
