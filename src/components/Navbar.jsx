@@ -116,7 +116,7 @@ export default function Navbar() {
         </nav>
         <User />
       </aside>
-      <header className="w-full lg:h-14 h-auto bg-black/20 lg:pt-0 pt-8 z-10 backdrop-blur-lg border-bottom flex lg:flex-row flex-col fixed justify-center">
+      <header className="w-full lg:h-14 h-auto bg-black/20 top-0 lg:pt-0 pt-8 z-10 backdrop-blur-lg border-bottom flex lg:flex-row flex-col fixed justify-center">
       <div className="lg:hidden flex w-full justify-between pb-5 px-5 relative">
       <img src="/public/COSMOS.png" alt="" className="object-cover rounded-full size-6" />
         <img src="/public/twitter.png" className="size-6 absolute inset-0 m-auto" alt="" />

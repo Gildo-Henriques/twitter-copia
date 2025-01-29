@@ -27,7 +27,7 @@ export default function App() {
   return (
     <main>
       <Navbar />
-      <section className=" w-full lg:mt-0 mt-36 h-auto flex flex-col justify-center items-center  space-y-5">
+      <section className=" w-full lg:mt-0 mt-16 h-auto flex flex-col justify-center items-center  space-y-5">
         <div className="mt-20 h-auto border-bottom pt-5 px-5 w-full flex  items-center justify-center flex-col">
           {/* TEXTAREA */}
           <div className="lg:w-[600px] w-full flex lg:flex-row flex-col items-start space-x-3">
@@ -329,10 +329,11 @@ export default function App() {
           ))}
         </div>
 
+
         <div className="flex relative w-full justify-center border-bottom space-x-4 h-auto">
           <div className="lg:static absolute top-1 left-2">
             <img
-              src="/public/foto-interna-de-mulher-encaracolada-feliz-com-expressao-facial-satisfeita-le-uma-bela-mensagem-do-namorado-concentrada-no-smartphone - Cópia (2).jpg"
+              src="/public/code.jpg"
               alt=""
               className="size-10 rounded-full"
             />
@@ -341,7 +342,8 @@ export default function App() {
             <div className="flex justify-between">
               <div className="flex items-center space-x-1">
                 <span className="text-white flex lg:ml-0 ml-7 text-lg hover:border-b *:border-b-white cursor-pointer font-semibold">
-                  Ana
+                  Codepoint<span className="lg:hidden flex">...</span>
+                  <span className="lg:flex hidden">_by_mirantes</span>
                 </span>
                 <span className="text-blue-500">
                   <svg
@@ -377,10 +379,15 @@ export default function App() {
               </span>
             </div>
             <div className="text-white mt-5">
-              <p>Sou a ANA Líder da Startup</p>
+              <p>
+                Prezado(a) Líder da Startup, é com grande entusiasmos que o(a)
+                convidamos para a cerimônia de abertura da competição CODEPOINT,
+                que acontecerá no próximo sábado 18 de janeiro, às 10hrs, na
+                mediateca 28 de Agosto (1º de maio -Largo das escolas).
+              </p>
             </div>
             <img
-              src="/public/ana.jpg"
+              src="/public/codepoint.jpg"
               className="h-[400px] mt-5 w-full object-cover rounded-2xl border-full"
               alt=""
             />
@@ -476,7 +483,7 @@ export default function App() {
         <div className="flex relative w-full justify-center border-bottom space-x-4 h-auto">
           <div className="lg:static absolute top-1 left-2">
             <img
-              src="/public/code.jpg"
+              src="/public/foto-interna-de-mulher-encaracolada-feliz-com-expressao-facial-satisfeita-le-uma-bela-mensagem-do-namorado-concentrada-no-smartphone - Cópia (2).jpg"
               alt=""
               className="size-10 rounded-full"
             />
@@ -485,8 +492,7 @@ export default function App() {
             <div className="flex justify-between">
               <div className="flex items-center space-x-1">
                 <span className="text-white flex lg:ml-0 ml-7 text-lg hover:border-b *:border-b-white cursor-pointer font-semibold">
-                  Codepoint<span className="lg:hidden flex">...</span>
-                  <span className="lg:flex hidden">_by_mirantes</span>
+                  Ana
                 </span>
                 <span className="text-blue-500">
                   <svg
@@ -522,15 +528,10 @@ export default function App() {
               </span>
             </div>
             <div className="text-white mt-5">
-              <p>
-                Prezado(a) Líder da Startup, é com grande entusiasmos que o(a)
-                convidamos para a cerimônia de abertura da competição CODEPOINT,
-                que acontecerá no próximo sábado 18 de janeiro, às 10hrs, na
-                mediateca 28 de Agosto (1º de maio -Largo das escolas).
-              </p>
+              <p>Sou a ANA Líder da Startup</p>
             </div>
             <img
-              src="/public/codepoint.jpg"
+              src="/public/ana.jpg"
               className="h-[400px] mt-5 w-full object-cover rounded-2xl border-full"
               alt=""
             />
