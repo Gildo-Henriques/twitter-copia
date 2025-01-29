@@ -30,7 +30,7 @@ export default function App() {
       <section className=" w-full lg:mt-0 mt-16 h-auto flex flex-col justify-center items-center  space-y-5">
         <div className="mt-20 h-auto border-bottom pt-5 px-5 w-full flex  items-center justify-center flex-col">
           {/* TEXTAREA */}
-          <div className="lg:w-[600px] w-full flex lg:flex-row flex-col items-start space-x-3">
+          <div className="lg:w-[600px] w-full flex lg:flex-row flex-col items-start gap-3">
             <CosmosLogo />
             <div className="flex flex-col w-full pb-  ">
               <textarea

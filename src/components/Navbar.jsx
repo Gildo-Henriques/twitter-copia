@@ -118,8 +118,8 @@ export default function Navbar() {
       </aside>
       <header className="w-full lg:h-14 h-auto bg-black/20 top-0 lg:pt-0 pt-8 z-10 backdrop-blur-lg border-bottom flex lg:flex-row flex-col fixed justify-center">
       <div className="lg:hidden flex w-full justify-between pb-5 px-5 relative">
-      <img src="/public/COSMOS.png" alt="" className="object-cover rounded-full size-6" />
-        <img src="/public/twitter.png" className="size-6 absolute inset-0 m-auto" alt="" />
+      <img src="https://github.com/Gildo-Henriques/twitter-copia/blob/main/public/COSMOS.png?raw=true" alt="" className="object-cover rounded-full size-6" />
+        <img src="https://github.com/Gildo-Henriques/twitter-copia/blob/main/public/twitter.png?raw=true" className="size-6 absolute inset-0 m-auto" alt="" />
         <button className="border rounded-full px-3 text-white text-sm">Upgrade</button>
       </div>
         <div className="h-full flex justify-center w-full items-end lg:px-80 2xl:px-[384px]">
