@@ -15,7 +15,7 @@ export default function Navbar() {
   return (
     <div className="flex z-20">
       <aside className=" 2xl:flex lg:flex hidden z-20 bg-black flex-col justify-around px-20 border-right  h-screen 2xl:w-96 lg:w-80 fixed">
-      <img src="/public/twitter.png" className="size-7" alt="" />
+      <img src="https://github.com/Gildo-Henriques/twitter-copia/blob/main/public/twitter.png?raw=true" className="size-7" alt="" />
         <nav className="flex flex-col space-y-5 *:text-xl">
           {/* HOME */}
           <a href="" className="flex items-center space-x-2">

@@ -233,7 +233,7 @@ export default function App() {
             
           </div>
           <img
-            src="./assets/img/cosmosssss.jpg"
+            src="https://github.com/Gildo-Henriques/twitter-copia/blob/main/public/cosmosssss.jpg?raw=true"
             className="h-[400px] mt-5 w-full object-cover rounded-2xl border-full"
             alt=""
           />
@@ -333,7 +333,7 @@ export default function App() {
         <div className="flex relative w-full justify-center border-bottom space-x-4 h-auto">
           <div className="lg:static absolute top-1 left-2">
             <img
-              src="/public/code.jpg"
+              src="https://github.com/Gildo-Henriques/twitter-copia/blob/main/public/code.jpg?raw=true"
               alt=""
               className="size-10 rounded-full"
             />
@@ -387,7 +387,7 @@ export default function App() {
               </p>
             </div>
             <img
-              src="/public/codepoint.jpg"
+              src="https://github.com/Gildo-Henriques/twitter-copia/blob/main/public/codepoint.jpg?raw=true"
               className="h-[400px] mt-5 w-full object-cover rounded-2xl border-full"
               alt=""
             />
@@ -483,7 +483,7 @@ export default function App() {
         <div className="flex relative w-full justify-center border-bottom space-x-4 h-auto">
           <div className="lg:static absolute top-1 left-2">
             <img
-              src="/public/foto-interna-de-mulher-encaracolada-feliz-com-expressao-facial-satisfeita-le-uma-bela-mensagem-do-namorado-concentrada-no-smartphone - Cópia (2).jpg"
+              src="https://github.com/Gildo-Henriques/twitter-copia/blob/main/public/foto-interna-de-mulher-encaracolada-feliz-com-expressao-facial-satisfeita-le-uma-bela-mensagem-do-namorado-concentrada-no-smartphone%20-%20C%C3%B3pia%20(2).jpg?raw=true"
               alt=""
               className="size-10 rounded-full"
             />
@@ -531,7 +531,7 @@ export default function App() {
               <p>Sou a ANA Líder da Startup</p>
             </div>
             <img
-              src="/public/ana.jpg"
+              src="https://github.com/Gildo-Henriques/twitter-copia/blob/main/public/ana.jpg?raw=true"
               className="h-[400px] mt-5 w-full object-cover rounded-2xl border-full"
               alt=""
             />
@@ -627,7 +627,7 @@ export default function App() {
         <div className="flex relative w-full justify-center border-bottom space-x-4 h-auto">
           <div className="lg:static absolute top-1 left-2">
             <img
-              src="/public/Vera.jpeg"
+              src="https://github.com/Gildo-Henriques/twitter-copia/blob/main/public/Vera.jpeg?raw=true"
               alt=""
               className="size-10 object-cover rounded-full"
             />
@@ -678,7 +678,7 @@ export default function App() {
               </p>
             </div>
             <img
-              src="/public/oi.jpg"
+              src="https://github.com/Gildo-Henriques/twitter-copia/blob/main/public/oi.jpg?raw=true"
               className="h-[400px] mt-5 w-full object-cover rounded-2xl border-full"
               alt=""
             />
